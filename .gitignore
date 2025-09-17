@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+data/
+models/
+*.tif
+*.tiff
+*.npy
+*.npz
+*.joblib
+*.so
+.DS_Store
+.vscode/
+.idea/
