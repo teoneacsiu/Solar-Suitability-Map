@@ -210,13 +210,3 @@ python scripts/visualize.py   --map "$(python -c 'import config; print(config.PR
 - Misaligned rasters → recheck `preprocess.py` target grid and resampling.
 
 ---
-
-## License
-
-MIT (adjust if your data sources require specific attribution).
-
----
-
-## Acknowledgments
-
-Built on open Copernicus Sentinel-2 data, global DEMs, and the Python geospatial ecosystem.
